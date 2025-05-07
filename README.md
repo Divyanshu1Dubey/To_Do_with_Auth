@@ -1,40 +1,38 @@
-📝 To-Do List with Authentication
+# 📝 To-Do List with Authentication
+
 A full-featured To-Do List web application built with Django, incorporating user registration, login, logout, and complete CRUD (Create, Read, Update, Delete) functionalities. This project serves as a practical implementation of Django's authentication system and form handling.
 
-🚀 Features
-User Authentication: Secure registration, login, and logout functionalities.
+---
 
-Task Management:
+## 🚀 Features
 
-Create new tasks.
+- **User Authentication**: Secure registration, login, and logout functionalities.
+- **Task Management**:
+  - Create new tasks.
+  - View a list of existing tasks.
+  - Update task details.
+  - Delete tasks.
+- **Search Functionality**: Easily search through tasks.
+- **Responsive Design**: User-friendly interface compatible with various devices.
 
-View a list of existing tasks.
+---
 
-Update task details.
+## 🛠️ Technologies Used
 
-Delete tasks.
+- **Backend**: Django (Python)
+- **Frontend**: HTML, CSS
+- **Database**: SQLite (default Django database)
 
-Search Functionality: Easily search through tasks.
+---
 
-Responsive Design: User-friendly interface compatible with various devices.
+## 🖥️ Installation & Setup
 
-🛠️ Technologies Used
-Backend: Django (Python)
-
-Frontend: HTML, CSS
-
-Database: SQLite (default Django database)
-
-🖥️ Installation & Setup
 Follow these steps to set up the project locally:
 
-Clone the Repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/Divyanshu1Dubey/To_Do_with_Auth.git
-cd To_Do_with_Auth
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Divyanshu1Dubey/To_Do_with_Auth.git
+   cd To_Do_with_Auth
 Create a Virtual Environment:
 
 bash
