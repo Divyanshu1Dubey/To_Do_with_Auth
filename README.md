@@ -75,33 +75,7 @@ Access the Application:
 
 Open your web browser and navigate to http://127.0.0.1:8000/ to use the application.
 
-📂 Project Structure
-pgsql
-Copy
-Edit
-To_Do_with_Auth/
-├── manage.py
-├── db.sqlite3
-├── Pipfile
-├── Pipfile.lock
-├── todo_list/
-│   ├── migrations/
-│   ├── templates/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── forms.py
-│   ├── models.py
-│   ├── tests.py
-│   └── views.py
-├── base/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   └── views.py
-└── README.md
+<pre><code> ``` To_Do_with_Auth/ ├── manage.py ├── db.sqlite3 ├── Pipfile ├── Pipfile.lock ├── todo_list/ │ ├── migrations/ │ ├── templates/ │ ├── __init__.py │ ├── admin.py │ ├── apps.py │ ├── forms.py │ ├── models.py │ ├── tests.py │ └── views.py ├── base/ │ ├── __init__.py │ ├── admin.py │ ├── apps.py │ ├── models.py │ ├── tests.py │ └── views.py └── README.md ``` </code></pre>
 ✅ Usage
 Register: Create a new user account.
 
